@@ -19,7 +19,7 @@ export default class FlatrisIntro extends Component<Props> {
           <Fragment>
             <p>
               <span className="highlight">
-                Flatris is a fast-paced
+                Madtris is a fast-paced
                 <br />
                 two-player game.
                 <br />
