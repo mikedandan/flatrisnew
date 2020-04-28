@@ -187,10 +187,10 @@ class Dashboard extends Component<Props, LocalState> {
         <div className="root">
           <div className="feedback-button">
             <a
-              href="https://docs.google.com/forms/u/0/d/e/1FAIpQLSfB66-8K8gWrj-Mo9sVYqKSgzTwCekXkMlL0zcBdKcSDH6IFA/viewform"
+              href="https://forms.gle/bAX5e6VHydz6QJBEA"
               target="_blank"
             >
-              <Button bgColor={COLORS.T}>Help make Flatris better - 1</Button>
+              <Button bgColor={COLORS.T}>Help make Madtris better - 1</Button>
             </a>
           </div>
           <div className="header">
@@ -201,7 +201,7 @@ class Dashboard extends Component<Props, LocalState> {
             </div>
             <div className="right">
               <div className="view-source left">
-                <a href="https://github.com/skidding/flatris" target="_blank">
+                <a href="https://github.com/mikedandan/flatrisnew" target="_blank">
                   <Button
                     bgColor="#ecf0f1"
                     color="#34495f"
